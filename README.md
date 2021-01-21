@@ -16,7 +16,7 @@ This project is setup using Firebase and Firebase Auth to demonstrate how to use
 ## Server App
 
 ```bash
-$ git clone https://github.com/assembler-school/nodejs-rest-api-design-intro-workshop.git
+$ git clone https://github.com/assembler-school/nodejs-rest-api-design-intro-workshop-client.git
 ```
 
 ## Workshop Material
